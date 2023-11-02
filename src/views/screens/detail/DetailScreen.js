@@ -1,7 +1,7 @@
 import { View, Text, Button } from 'react-native';
 import React from 'react';
 
-function DetailScreen({navigation}) {
+function DetailScreen({ navigation }) {
   return (
       <View
         style={{
